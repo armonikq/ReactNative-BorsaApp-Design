@@ -1,0 +1,81 @@
+
+.background{
+   background: #384260;
+   width: 90%;
+   height: 20vh;
+   border-radius: 5px;
+}
+
+
+.AllContainer{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   margin-top: 10px;
+}
+.Container{
+
+
+}
+.gold{
+   display: flex;
+   gap: 60px;
+   justify-content: center;
+   padding: 10px;
+}
+.yazilar1{
+   background:#252D3F ;
+   width: 10%;
+   height: 15vh;
+   margin-top: 5px;
+   border-radius: 7px;
+   color: white;
+}
+.yazi1{
+   margin-top: 9px;
+}
+.yazi2{
+   margin-top: 9px;
+}
+.yazi3{
+   margin-top: 9px;
+}
+.yazi4{
+   margin-top: 9px;
+}
+
+.yazi5{
+   margin-top: 9px;
+}
+.yazi6{
+   margin-top: 9px;
+}
+
+.yazi1 img{
+   width: 30px;
+   padding: 3px;
+}
+.yazi2 img{
+   width: 28px;
+   padding: 3px;
+}
+.yazi3 img{
+   width: 30px;
+   padding: 3px;
+}
+.yazi4 img{
+   width: 30px;
+   padding: 3px;
+}
+.yazi5 img{
+   width: 32px;
+   padding: 3px;
+}
+.yazi6 img{
+   width: 30px;
+   padding: 3px;
+}
+
+
+
